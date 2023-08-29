@@ -3,7 +3,7 @@
 Este es mi E-commerce, diseñado con la intencion de ir dando forma a una tienda para mi negocio.
 Mi proyecto esta subido a Vercel para poder ser navegado en vivo y probar todas sus funcionalidades, independientemente mas abajo estan los GIFs que muestran la navegablidad tambien, el link al proyecto es:
 
-## https://boholandstore.vercel.app/
+## [https://boholandstore.vercel.app/](https://boholand-react.vercel.app/)
 
 
 ### **Base de datos**
