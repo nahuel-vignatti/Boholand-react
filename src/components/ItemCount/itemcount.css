@@ -1,0 +1,20 @@
+.lineaBotones {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 3rem;
+  gap: 1rem;
+}
+.ctnCount {
+  padding: 1rem;
+  background-color: rgba(248, 245, 241, 0.308);
+}
+
+.botonAgregar {
+  background-color: rosybrown;
+  border: 0;
+}
+
+.botonAgregar:hover {
+  background-color: rgb(165, 125, 125);
+}

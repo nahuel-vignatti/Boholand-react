@@ -1,0 +1,11 @@
+footer {
+  background-color: #eeca9e;
+}
+.socialLogos {
+  height: auto;
+  max-width: 8rem;
+}
+
+a {
+  text-decoration: none;
+}
